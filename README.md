@@ -1,18 +1,29 @@
-## Getting Started
+## Bem-vindo(a) ao Sistema Biblioteca! 👋🏼
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A linguagem utilizada nesse projeto foi `Java`. 
 
-## Folder Structure
+## O que me motivou a realizar esse projeto?
 
-The workspace contains two folders by default, where:
+Esse sistema foi desenvolvido para finalização da disciplina de **LP(Linguagem de Programação)**, na Universidade Federal da Paraíba.<br>Nesse projeto adquirir diversos conhecimentos como:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- `POO`
+- `Herança`
+- `Polimorfismo`
+- `Persistência de Dados`
+- `Interfaces`
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Principal ideia do projeto:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Para realização do sistema, foi pensado o que seria possivel fazer para facilitar o gerenciamento de uma biblioteca.<br>Então, foi desenvolvido um sistema no qual o usuário tem a possibilidade de:
 
-## Dependency Management
+- `Adicionar um novo livro`
+- `Pesquisar livros por categorias`
+- `Ver a lista de todos os livros`
+- `Remover um livro`
+- `Salvar da dados`
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Alguns trechos do Sistema:
+
+~~~javascript
+Esta é uma linha de código em Javascript.
+~~~
